@@ -65,13 +65,13 @@ a:active {
 
 }
 
-#p{
+.p{
     padding:20px 35px;
     line-height: 3;
     color:#777777;
     margin: auto;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-
+    text-indent: 50px;
 }
 
 #form{
